@@ -1,0 +1,7 @@
+logging:
+    level:
+        org:
+            springframework: "ERROR"
+    file : C:/elk/log-monitoring-elk.log
+server:
+  port: 9001
